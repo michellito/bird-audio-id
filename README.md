@@ -11,4 +11,4 @@ This repository contains Jupyter Notebooks demonstrating bird species identifica
 
 ## Data Source
 
-The audio data used in this project is sourced from [xeno-canto.org](https://xeno-canto.org/), a collaborative database of wildlife sounds from around the world.
+The sample audio data used in this project is sourced from [xeno-canto.org](https://xeno-canto.org/), a collaborative database of wildlife sounds from around the world. The samples used were recorded in Tucson, AZ.
