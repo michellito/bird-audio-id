@@ -1,5 +1,7 @@
 # Bird Audio Identification
 
+<a href="https://de.cyverse.org/instantlaunch/0934c370-9e44-11f0-9521-008cfa5ae621" target="_blank" rel="noopener noreferrer"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
 This repository contains Jupyter Notebooks demonstrating bird species identification from audio recordings using the BirdNET deep learning model.
 
 ## Models and Packages
