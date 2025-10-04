@@ -4,6 +4,11 @@
 
 This repository contains Jupyter Notebooks demonstrating bird species identification from audio recordings using the BirdNET deep learning model.
 
+To use the notebooks in the CyVerse Discovery Environment, click the "Powered by CyVerse" button above.  This will launch a Jupyterlab instance on CyVerse.
+
+An API Key for the MCP notebook can be obtained from AI Verde: [https://chat.cyverse.ai](https://chat.cyverse.ai). A CyVerse staff member will need to create your account first.
+
+
 ## Models and Packages
 
 - **BirdNET Model**: Developed by Cornell University's Lab of Ornithology. [BirdNET Website](https://birdnet.cornell.edu/)
